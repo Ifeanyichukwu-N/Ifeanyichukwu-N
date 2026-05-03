@@ -38,9 +38,7 @@ Ifeanyichukwu is a prominent figure in the African technology landscape, contrib
 ---
 
 ## 📅 Current Status (2026)
-Andrew Ifeanyichukwu remains actively engaged in the expansion of the SURCHI ecosystem,
-![@SurchiWeb3AiAgent] (https://github.com/SurchiWeb3AiAgent)
-focusing on the application of AI to autonomous finance and intelligent protocol infrastructure.
+Andrew Ifeanyichukwu remains actively engaged in the expansion of the SURCHI ecosystem,focusing on the application of AI to autonomous finance and intelligent protocol infrastructure.
 
 [![SURCHI](https://img.shields.io/badge/Project-SURCHI-blue?style=flat-square&logo=github)](https://github.com/SurchiWeb3AiAgent)
 
