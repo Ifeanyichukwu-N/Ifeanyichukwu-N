@@ -42,6 +42,8 @@ Andrew Ifeanyichukwu remains actively engaged in the expansion of the SURCHI eco
 ![@SurchiWeb3AiAgent] (https://github.com/SurchiWeb3AiAgent)
 focusing on the application of AI to autonomous finance and intelligent protocol infrastructure.
 
+[![SURCHI](https://img.shields.io/badge/Project-SURCHI-blue?style=flat-square&logo=github)](https://github.com/SurchiWeb3AiAgent)
+
 ---
 
 > "Building the intelligence layer for the future of autonomous finance."
