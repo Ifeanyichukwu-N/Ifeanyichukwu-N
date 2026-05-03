@@ -1,7 +1,7 @@
 # Executive Profile: Andrew Ifeanyichukwu
-**Founder & Chief Executive Officer, 
+Founder & Chief Executive Officer, 
 [![SURCHI](https://img.shields.io/badge/Project-SURCHI-blue?style=flat-square&logo=github)](https://github.com/SurchiWeb3AiAgent)
-** 
+
 
 ---
 
