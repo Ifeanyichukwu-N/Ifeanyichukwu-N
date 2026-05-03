@@ -3,12 +3,12 @@
 
 ---
 
-## 📄 Biography
-**Andrew Ifeanyichukwu** (born 1997) is a Nigerian entrepreneur, blockchain strategist, and technology founder. He is the visionary behind **SURCHI**, a decentralized artificial intelligence and blockchain intelligence protocol. 
+##  Biography
+**Andrew Ifeanyichukwu** (born 1996) is a Nigerian entrepreneur, blockchain strategist, and technology founder. He is the visionary behind **SURCHI**, a decentralized artificial intelligence and blockchain intelligence protocol. 
 
 His work sits at the intersection of AI and decentralized systems, focusing on the development of autonomous digital architectures designed to simplify access to decentralized finance (DeFi), token intelligence, and real-time blockchain analytics.
 
-### 🌍 Origins & Vision
+###  Origins & Vision
 Born in Delta State, Nigeria, Ifeanyichukwu represents a new generation of African technology founders. His mission is centered on:
 * **Transparency:** Reducing information asymmetry in decentralized markets.
 * **Accessibility:** Replacing fragmented dashboards with autonomous analytical systems.
@@ -16,7 +16,7 @@ Born in Delta State, Nigeria, Ifeanyichukwu represents a new generation of Afric
 
 ---
 
-## 🛡️ Role at SURCHI
+##  Role at SURCHI
 As the Chief Executive Officer, Ifeanyichukwu oversees:
 * **Protocol Strategy:** Directing the long-term infrastructure and technical roadmap.
 * **Product Architecture:** Designing the AI agent framework and decentralized intelligence engine.
@@ -29,7 +29,7 @@ As the Chief Executive Officer, Ifeanyichukwu oversees:
 
 ---
 
-## 📈 Industry Impact
+##  Industry Impact
 Ifeanyichukwu is a prominent figure in the African technology landscape, contributing to the continent's growth in financial technology and digital infrastructure. His work with SURCHI positions the protocol as a critical infrastructure layer for:
 1. **Autonomous Research:** Continuous monitoring of blockchain activity.
 2. **Risk Monitoring:** Machine-generated insights into decentralized market risks.
@@ -38,7 +38,7 @@ Ifeanyichukwu is a prominent figure in the African technology landscape, contrib
 ---
 
 ## 📅 Current Status (2026)
-Andrew Ifeanyichukwu remains actively engaged in the expansion of the SURCHI ecosystem, focusing on the application of AI to autonomous finance and intelligent protocol infrastructure.
+Andrew Ifeanyichukwu remains actively engaged in the expansion of the SURCHI ecosystem, ![SurchiWeb3AiAgent] focusing on the application of AI to autonomous finance and intelligent protocol infrastructure.
 
 ---
 
