@@ -3,6 +3,7 @@
 [![AI-Powered](https://img.shields.io/badge/AI-Autonomous-green)](https://openai.com/)
 ---
 
+    # 👤 Andrew Ifeanyichukwu
 **Founder & CEO of SURCHI — Web3 AI Intelligence Protocol** *Professional Crypto Trader | Analyst | Innovation Architect*
 
 ---
@@ -14,7 +15,7 @@ Originally from Delta State, Nigeria, Andrew has defined his journey through a d
 
 ---
 
-## 🚀 Vision & Mission
+##  Vision & Mission
 Andrew’s core vision is centered on a single transformative idea: **The future of finance must be autonomous, intelligent, and decentralized.**
 
 Through SURCHI, his mission is to:
@@ -27,7 +28,7 @@ Through SURCHI, his mission is to:
 
 ---
 
-## 🧠 Founder’s Philosophy
+##  Founder’s Philosophy
 Andrew approaches innovation with three core pillars:
 * **Intelligence Over Complexity:** Systems should abstract complexity, not add to it.
 * **Automation Over Repetition:** Machines should optimize tasks that humans find repetitive.
@@ -35,7 +36,7 @@ Andrew approaches innovation with three core pillars:
 
 ---
 
-## 🏗️ Building SURCHI
+##  Building SURCHI
 As the chief architect of SURCHI, Andrew leads the development of a modular intelligence protocol featuring:
 * **AI Autonomous Agents:** Engineered for on-chain telemetry and neural sentiment analysis.
 * **Sovereign Execution:** Decentralized layers designed for trustless, non-custodial operations.
@@ -45,7 +46,7 @@ Beyond Web3, Andrew is passionate about sustainable infrastructure, exploring th
 
 ---
 
-## 💡 Areas of Expertise
+##  Areas of Expertise
 | Domain | Focus Areas |
 | :--- | :--- |
 | **Web3 & Blockchain** | DeFi, Smart Contracts, Solana Ecosystem, Tokenomics |
@@ -55,7 +56,7 @@ Beyond Web3, Andrew is passionate about sustainable infrastructure, exploring th
 
 ---
 
-## 🌱 Journey & Background
+##  Journey & Background
 Representing a new generation of African tech leaders, Andrew’s background in Delta State, Nigeria, has shaped a perspective focused on:
 * Building high-impact, scalable solutions with efficient resource management.
 * Leveraging decentralized systems to provide global opportunities to local markets.
@@ -63,15 +64,18 @@ Representing a new generation of African tech leaders, Andrew’s background in 
 
 ---
 
-## 📫 Connect
-For inquiries, collaborations, or networking, feel free to reach out via the following channels:
+##  Connect
 
-* **GitHub:** [Your GitHub Profile Link]
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Twitter/X:** [Your Twitter Profile Link]
-* **Email:** [Your Professional Email Address]
+<details>
+<summary><b>Click to expand contact information</b></summary>
+
+* **LinkedIn:** [Andrew Ifeanyichukwu](https://www.linkedin.com/in/andrew-ifeanyichukwu-166378408)
+* **Twitter/X:** [@_cyptobro](https://x.com/_cyptobro)
+* **Email:** [andrew_ifeanyichukwu@outlook.com](mailto:andrew_ifeanyichukwu@outlook.com)
+
+</details>
 
 ---
 
-## 🌟 Closing Statement
+##  Closing Statement
 Andrew Ifeanyichukwu is working toward a future where machines handle complexity, intelligence drives execution, and individuals gain sovereign control through decentralization. His work represents a fundamental shift from manual interaction to autonomous systems—a future where technology doesn’t just assist, but acts.
