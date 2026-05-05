@@ -65,8 +65,8 @@ Representing a new generation of African tech leaders, Andrew’s background in 
 
 ## 📫 Connect
 * **LinkedIn:** [Insert Link]
-* **Twitter/X:** [Insert Link]
-* **Email:** [Insert Link]
+* **Twitter/X:** [https://x.com/_cyptobro]
+* **Email:** [andrew_ifeanyichukwu@outlook.com]
 
 ---
 
