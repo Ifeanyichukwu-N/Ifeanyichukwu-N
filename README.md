@@ -1,4 +1,4 @@
-[![SURCHI](https://img.shields.io/badge/Project-SURCHI-blue?style=flat-square&logo=github)](https://github.com/SurchiWeb3AiAgent)
+[![SURCHI](https://img.shields.io/badge/Project-surchiai-blue?style=flat-square&logo=github)](https://github.com/SurchiWeb3AiAgent)
 [![Web3](https://img.shields.io/badge/Web3-Decentralized-blueviolet)](https://web3.foundation/)
 [![AI-Powered](https://img.shields.io/badge/AI-Autonomous-green)](https://openai.com/)
 ---
