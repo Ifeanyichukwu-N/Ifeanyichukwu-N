@@ -1,8 +1,5 @@
 [![SURCHI](https://img.shields.io/badge/Project-SURCHI-blue?style=flat-square&logo=github)](https://github.com/surchiai)
-
 [![SURCHI](https://img.shields.io/badge/SURCHI-AI%20DeFi-blueviolet?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/surchiai)
-
-
 [![Web3](https://img.shields.io/badge/Web3-Decentralized-blueviolet)](https://web3.foundation/)
 [![AI-Powered](https://img.shields.io/badge/AI-Autonomous-green)](https://openai.com/)
 ---
